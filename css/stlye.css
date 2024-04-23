@@ -157,8 +157,6 @@ img {
 }
 
 
-.title-section {}
-
 .headline-title {
     font-size: 56px;
     line-height: 1.07;
@@ -755,6 +753,8 @@ img {
     display: flex;
     display: block;
     width: 208px;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .container-icon-text {
@@ -790,8 +790,8 @@ img {
 .team-menu-icon {
     fill: #f4f4fd;
     display: flex;
-    width: 24px;
-    height: 24px;
+    width: 16px;
+    height: 16px;
 }
 
 .container-icon-item {
@@ -802,7 +802,7 @@ img {
 
 
 .footer-title {
-    margin-right: 120px;
+    /* margin-right: 120px; */
 }
 
 
@@ -825,7 +825,6 @@ img {
     margin-bottom: 16px;
     margin-left: 80px;
 }
-
 
 .footer-input {
     border: 1px solid #fff;
