@@ -111,8 +111,6 @@ img {
 
 }
 
-
-
 .header-address {
     font-style: normal;
     display: flex;
@@ -275,8 +273,6 @@ img {
     color: #2e2f42;
     margin-bottom: 16px;
 }
-
-.modal-form {}
 
 .modal-box {
     position: relative;
