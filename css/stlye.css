@@ -459,13 +459,13 @@ img {
 }
 
 .content-menu-icon {
-    display: block;
+    /* display: block;
     border: 1px solid #8e8f99;
-    border-radius: 4px;
-    width: 264px;
+    border-radius: 4px; */
+    /* width: 264px;
     height: 112px;
     background: #f4f4fd;
-    margin: 0 auto
+    margin: 0 auto */
 }
 
 .content-subtitle {
@@ -776,14 +776,14 @@ img {
 .team-menu-icon {
     fill: #f4f4fd;
     display: flex;
-    width: 16px;
-    height: 16px;
+    /* width: 16px;
+    height: 16px; */
 }
 
 .container-icon-item {
     width: 40px;
     height: 40px;
-    margin-bottom: 8px;
+    /* margin-bottom: 8px; */
 }
 
 .container-icon {
@@ -797,7 +797,7 @@ img {
     justify-content: space-between;
     width: 453px;
     margin-left: 80px;
-    gap: 24px;
+    gap: 24px ;
 }
 
 .text-subscribe {
