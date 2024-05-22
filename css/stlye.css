@@ -150,7 +150,7 @@ img {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office.jpg);
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office-ppl.jpg);
     margin: 0 auto;
 }
 
@@ -164,7 +164,6 @@ img {
     margin: 0 auto;
     margin-bottom: 48px;
     text-align: center;
-    padding-bottom: 48px;
 }
 
 .headline-btn {
